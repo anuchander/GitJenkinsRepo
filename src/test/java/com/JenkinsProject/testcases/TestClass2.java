@@ -26,6 +26,10 @@ public class TestClass2 {
 		System.out.println("I am method3 in TestClass2");
 	}
 	
+	@Test
+	public void method4() {
+		System.out.println("I am method4 in TestClass2");
+	}
 	
 
 }
