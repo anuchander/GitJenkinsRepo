@@ -16,8 +16,16 @@ public class TestClass2 {
 		System.out.println("I am in method1 of TestClass2");
 	}
 	
+	@Test
 	public void method2() {
 		System.out.println("I am in method2 of TestClass2");
 	}
+	
+	@Test
+	public void method3(){
+		System.out.println("I am method3 in TestClass2");
+	}
+	
+	
 
 }
