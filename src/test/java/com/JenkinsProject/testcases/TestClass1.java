@@ -60,5 +60,11 @@ public class TestClass1 extends BaseClass{
 	public void method7(){
 		System.out.println("This is method 7 written in Github for pull into branch test");
 	}
+	
+	public void method8(){
+		System.out.println("This is method 8 written in Github for pull test");
+	}
+	
+	
 
 }
