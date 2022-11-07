@@ -46,5 +46,10 @@ public class TestClass1 extends BaseClass{
 		System.out.println("This is method5 for testing rebase");
 		log.info("This is after method5 in TestClass1");
 	}
+	
+	@Test
+	public void method4(){
+		System.out.println("This is method4 written in Github and committed");
+	}
 
 }
