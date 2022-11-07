@@ -28,5 +28,10 @@ public class TestClass1 extends BaseClass{
 	public void method3() {
 		System.out.println("This is message from method3");
 	}
+	
+	@Test
+	public void method4(){
+		System.out.println("This is method4 written in Github and committed");
+	}
 
 }
