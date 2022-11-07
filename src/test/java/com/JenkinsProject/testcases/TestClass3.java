@@ -25,5 +25,9 @@ public class TestClass3 {
 	public void method3() {
 		System.out.println("This is method3 in TestClass3");
 	}
+	public void method4(){
+		System.out.println("This is method4 in TestClass3 added in Github");
+
+	}
 
 }
