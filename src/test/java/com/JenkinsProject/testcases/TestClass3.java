@@ -34,5 +34,10 @@ public class TestClass3 {
 	public void method6(){
 		System.out.println("Added method6 in TestClass3 in Github");
 	}
+	
+	@Test
+	public void methodInGitHub(){
+		System.out.println("Added methodInGitHub");
+	}
 
 }
