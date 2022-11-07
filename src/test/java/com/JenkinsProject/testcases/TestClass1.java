@@ -55,6 +55,7 @@ public class TestClass1 extends BaseClass{
 	@Test
 	public void method6() {
 		System.out.println("This is method6 created in branch1");
+	}
 
 	public void method7(){
 		System.out.println("This is method 7 written in Github for pull into branch test");
