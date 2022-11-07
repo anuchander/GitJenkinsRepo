@@ -20,5 +20,10 @@ public class TestClass3 {
 	public void method2(){
 		System.out.println("This is method2 in TestClass3");
 	}
+	
+	@Test
+	public void method4(){
+		System.out.println("This is method4 in TestClass3 added in Github");
+	}
 
 }
