@@ -1,0 +1,16 @@
+18:00:56.749 [main] INFO  com.JenkinsProject.testcases.TestClass1 - This is before method1 in TestClass1
+18:00:56.753 [main] INFO  com.JenkinsProject.testcases.TestClass1 - This is after method1 in TestClass1
+18:01:00.324 [main] INFO  com.JenkinsProject.testcases.TestClass1 - This is before method2 in TestClass1
+18:01:00.324 [main] INFO  com.JenkinsProject.testcases.TestClass1 - This is after method2 in TestClass1
+18:01:03.878 [main] INFO  com.JenkinsProject.testcases.TestClass1 - This is before method3 in TestClass1
+18:01:03.878 [main] INFO  com.JenkinsProject.testcases.TestClass1 - This is after method3 in TestClass1
+18:01:04.053 [main] INFO  TestClass2.java - This is before method1 in TestClass2
+18:01:04.053 [main] INFO  TestClass2.java - This is after method1 in TestClass2
+18:01:04.056 [main] INFO  TestClass2.java - This is before method2 in TestClass2
+18:01:04.057 [main] INFO  TestClass2.java - This is after method2 in TestClass2
+18:01:04.061 [main] INFO  TestClass2.java - This is before method3 in TestClass2
+18:01:04.061 [main] INFO  TestClass2.java - This is after method3 in TestClass2
+18:01:04.064 [main] INFO  TestClass2.java - This is before method4 in TestClass2
+18:01:04.064 [main] INFO  TestClass2.java - This is after method4 in TestClass2
+18:01:04.067 [main] INFO  TestClass2.java - This is before method5 in TestClass2
+18:01:04.067 [main] INFO  TestClass2.java - This is after method5 in TestClass2
