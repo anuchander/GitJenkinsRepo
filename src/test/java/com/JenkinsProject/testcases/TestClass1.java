@@ -51,5 +51,10 @@ public class TestClass1 extends BaseClass{
 	public void method4(){
 		System.out.println("This is method4 written in Github and committed");
 	}
+	
+	@Test
+	public void method7(){
+		System.out.println("This is method 7 written in Github for pull into branch test");
+	}
 
 }
