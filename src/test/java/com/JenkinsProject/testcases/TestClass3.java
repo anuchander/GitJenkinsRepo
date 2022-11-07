@@ -39,5 +39,11 @@ public class TestClass3 {
 		System.out.println("Added method6 in TestClass3 in Github");
 
 	}
+	
+	@Test
+	public void methodInBranck() {
+		System.out.println("Added method in branch");
+		
+	}
 
 }
