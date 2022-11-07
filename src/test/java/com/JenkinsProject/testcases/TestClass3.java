@@ -29,5 +29,9 @@ public class TestClass3 {
 		System.out.println("This is method4 in TestClass3 added in Github");
 
 	}
+	
+	public void method5() {
+		System.out.println("This method added in branch to test merge conflicts");
+	}
 
 }
