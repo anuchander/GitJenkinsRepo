@@ -15,4 +15,10 @@ public class TestClass4 {
 	public void method1() {
 		System.out.println("This is method1 in TestClass4");
 	}
+	
+	@Test
+	public void methodCreatedInBranch() {
+		System.out.println("I am created in local Branch01");
+		
+	}
 }
