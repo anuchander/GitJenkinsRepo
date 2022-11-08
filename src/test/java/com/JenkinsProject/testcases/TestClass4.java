@@ -21,4 +21,9 @@ public class TestClass4 {
 		System.out.println("I am created in local Branch01");
 		
 	}
+	
+	@Test
+	public void methodCreatedAtGitHub(){
+		System.out.println("This method created in GitHub");
+	}
 }
