@@ -21,4 +21,9 @@ public class TestClass4 {
 		System.out.println("I am created in local Branch01");
 		
 	}
+	
+	@Test
+	public void teststash() {
+		System.out.println("Test stash with eclipse in TestClass4");
+	}
 }

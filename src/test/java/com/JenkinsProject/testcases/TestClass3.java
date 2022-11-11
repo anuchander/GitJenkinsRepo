@@ -50,5 +50,10 @@ public class TestClass3 {
 	public void methodInGitHub(){
 		System.out.println("Added methodInGitHub");
 	}
+	
+	@Test
+	public void teststash() {
+		System.out.println("Test stash with eclipse in TestClass4");
+	}
 
 }
