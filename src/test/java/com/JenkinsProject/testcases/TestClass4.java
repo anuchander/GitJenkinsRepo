@@ -26,4 +26,11 @@ public class TestClass4 {
 	public void methodCreatedAtGitHub(){
 		System.out.println("This method created in GitHub");
 	}
+	
+	@Test
+	public void newMethod() {
+		
+	}
+	
+	
 }
