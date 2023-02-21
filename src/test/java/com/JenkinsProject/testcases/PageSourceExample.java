@@ -1,6 +1,7 @@
 package com.JenkinsProject.testcases;
 
 import org.openqa.selenium.WebDriver;
+import java.util.*;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.Assert;
 
@@ -16,6 +17,7 @@ public class PageSourceExample {
 		String s = "Contact Linkedin";
 		Assert.assertTrue(driver.getPageSource().contains(s), "Contact Linkedin not present");
 		driver.close();
+		
 		
 
 	}
