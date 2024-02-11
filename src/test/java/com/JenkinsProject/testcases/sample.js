@@ -7,6 +7,6 @@ class sample {
          lastname = b;
         }
 
-        console.log (firstname, lastname)
+        console.log (lastname, firstname)
 
 }
