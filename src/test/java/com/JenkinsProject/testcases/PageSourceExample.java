@@ -15,8 +15,10 @@ public class PageSourceExample {
 		driver=new ChromeDriver();
 		driver.get("https://www.business.linkedin.com");
 		String s = "Contact Linkedin";
+		System.out.println("Check if business.linkedin.com contains Contact Linkedin");
 		Assert.assertTrue(driver.getPageSource().contains(s), "Contact Linkedin not present");
 		driver.close();
+
 		
 		
 
