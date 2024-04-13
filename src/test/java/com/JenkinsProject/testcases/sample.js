@@ -8,5 +8,7 @@ class sample {
         }
 
         console.log (lastname, firstname)
+        console.log('Firstname is:' + firstname);
+        console.log('Lastname is: ' + lastname);
 
 }
